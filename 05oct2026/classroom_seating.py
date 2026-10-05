@@ -1,6 +1,6 @@
 students=73
 bench=3
-bench=students//bench
+complete=students//bench
 remaining=students%bench
-print(students)
-print(bench)
+print("complete benches:",complete)
+print("remaining students:",remaining)
