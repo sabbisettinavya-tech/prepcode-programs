@@ -1,5 +1,5 @@
 day=input("enter day:")
-if day=="satdurday"or day=="sunday":
+if day=="saturday"or day=="sunday":
     print("weekend")
 else:
     print("weekday")
